@@ -1,6 +1,8 @@
 # Notes.nvim
 
-**notes.nvim** is a simple note taking plugin for Neovim
+**notes.nvim** is a simple note taking plugin for Neovim  
+
+![image](https://github.com/lhedeby/notes.nvim/assets/40169567/700cc29e-cb45-4340-8fab-68a108630387)
 
 ## Installation
 
